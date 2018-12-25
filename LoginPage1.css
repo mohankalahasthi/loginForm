@@ -1,0 +1,122 @@
+body,h1,h2,h3,h4,h5,h6,p,a,table,form,li,ul{
+
+	margin: 0px;
+	padding: 0px;
+
+}
+body{
+	background-color: #2B3B7D;
+	width: 100%;
+}
+.left{
+	float: left;
+	}
+.padd-left40{
+	padding-left: 40px;
+	
+}
+.LoginForm{
+	width: 770px;
+    height: 330px;
+    background-color: white;
+    margin: auto;
+	margin-top: 220px;
+}
+.Static{
+	width: 350px;
+	height: 330px;
+	background-color: #21BEEA;
+	float: left;
+}
+.heading{
+	text-align: center ;
+	padding: 60px 0px;
+	color: white;
+}
+.list{
+	width: 150px;
+    margin: auto;
+    color: white;
+}
+.Loginblock2{
+	float: left;
+	width: 420px;
+    height: 330px;
+	
+}
+.Loginhead{
+	padding: 20px 40px;
+}
+.Loginhead p span:first-child{
+	color:#21BEEA;
+	font-weight: bold;
+	cursor: pointer;
+
+}
+.input-icon{
+	font-size: 22px;
+    position: relative;
+    right: 20px;
+    top: 10px;
+}  
+.text-fileds{
+	text-align: center;
+	height: 130px;
+    padding: 20px;
+}
+.text-fileds input{
+	display: inline-block;
+    padding: 10px;
+    width: 80%;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid;
+    
+}
+.footer{
+	width: 420px;
+	padding: 0px 40px;
+}
+.btn{
+	width: 70px;
+    height: 31px;
+    border-radius: 16px;
+    background-color: white;
+    border-color: #21BEEA;
+    color:	#21BEEA;
+    border: solid;
+    cursor: pointer;
+}
+.social ul li{
+		list-style: none;
+		float: left;
+}
+.social li{
+	    margin: 1px 3px;
+}
+.fb{
+	border: 1px solid;
+    padding: 7px 14px;
+    border-radius: 100%;
+    background-color: blue;
+    color: white;
+}
+.fb:hover{
+	 background-color: red;
+    color: white;
+}
+.twitter{
+	border: 1px solid;
+    padding: 7px 10px;
+    border-radius: 100%;
+    background-color: #21BEEA;
+    color: white;
+}
+
+.google{
+	border: 1px solid;
+    padding: 7px 7px;
+    border-radius: 100%;
+    background-color: red;
+    color: white;
+}
